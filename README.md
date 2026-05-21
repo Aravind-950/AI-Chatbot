@@ -29,4 +29,4 @@ python app.py
 
 ## 📸 Screenshot
 
-(Add screenshot here)!(screenshot.png)
+![Chatbot Screenshot](screenshot.png)
